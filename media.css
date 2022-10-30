@@ -1,0 +1,164 @@
+@media screen and (max-width:640px){
+    .logo{
+        font-size: 20px;
+    }
+    
+    .nav-items{
+     display: none;
+    }
+    .nav-menu::before{
+      display: none
+    }
+    .nav-icon{
+        display: block;
+        font-size: 30px;
+        position: relative;
+        left: 45vh;
+    }
+    .number{
+       display: none;
+    }
+
+    .left-section{
+        position: relative;
+        left: 2vh;
+    }
+    .left-section .heading h2{
+        font-size: 30px;
+        position: relative;
+        bottom: 30px;
+    }
+    button{
+        position: relative;
+        bottom: 90px;
+        width: 25vh;
+        height: 8vh;
+    }
+    button p{
+        font-size: 16px;
+    }
+    body{
+       background-repeat: no-repeat;
+       background-size: cover;
+       height: 100vh;
+    }
+    .box-1{
+        position: relative;
+        width: 30vh;
+        height: 20vh;
+        top: 20vh;
+        right: 10vh;
+    }
+    .box-1 p{
+        font-size: 12px;
+        position: relative;
+    }
+    .puzzle{
+        width: 45px;
+        height: 30px;
+    }
+    .line{
+        position: relative;
+        left: 20vh;
+        top: 90px;
+    }
+    .circle-1{
+        position: relative;
+        top: 8vh;
+        left: 80px;
+    }
+    /* Box-2 */
+    .box-2{
+        position: relative;
+        top: 32vh;
+        width: 30vh;
+        height: 20vh;
+    }
+    .box-2 p{
+        font-size: 12px;    
+    }
+    .idea{
+        width: 45px;
+        height: 30px;
+    }
+    .line-2{
+        position: relative;
+        left: 30vh;
+    }
+    .circle-2{
+        position: relative;
+        left: 28vh;
+    }
+}
+
+@media screen and (max-width:768px){
+    body{
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+    }
+    .logo{
+        font-size: 16px;
+    }
+    .nav-menu{
+        width: 90vh;
+        font-size: 14px;
+    }
+    .nav-items{
+        width: 70vh;
+        position: relative;
+        right: 0px;
+    }
+    .nav-items .nav-item{
+        margin-right: 2px;
+        font-size: 12px;
+    }
+    .number{
+        position: relative;
+        left: 10px;
+    }
+    .number p{
+        font-size: 10px;
+    }
+    .nav-menu::before{
+     display: none;
+    }
+    .left-section{
+        position: relative;
+        left: 1px;
+        top: 12px;
+    }
+    .left-section .heading h2{
+        font-size: 30px;
+    }
+    .box-1{
+        position: relative;
+        right: 20vh;
+    }
+    .box-1 p{
+        font-size: 12px;
+    }
+    .line{
+        position: relative;
+        top: 45px;
+    }
+    .circle-1{
+        position: relative;
+        left: 157px;
+        top: 59px;
+    }
+    .box-2 p{
+        font-size: 12px;
+    }
+    button{
+        position: relative;
+        bottom: 20px;
+        width: 25vh;
+        height: 8vh;
+    }
+    button p{
+        font-size: 16px;
+    }
+}
+
+    
