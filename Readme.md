@@ -6,6 +6,7 @@
 <hr>
 
 ![image](./Thumbnail.png)
+[Live Preview](https://project-10-interior-designs.netlify.app/)
 <hr>
 
 ## Features
